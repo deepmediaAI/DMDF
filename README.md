@@ -1,15 +1,7 @@
 # DMDF TLDR
 The official GitHub for the Deep Media Data Files, the largest public resource for deepfake detection
 
-DMDF_Faces_V1 is a collection of deepfake detection datasets intended to provide you with a ready to use toolkit for deepfake detection. DMDF contains thousands of crops of  real and deepfaked videos, see the split below:
-
-\begin{table}[]
-\begin{tabular}{lllllllll}
-\textbf{} & DFDC & Deeper\_Forensics & Face\_Forensics & Neural Textures & Face2Face & FaceShifter & FaceSwap & Total \\
-Real      & 3711 & 2184              & 1029            & NA              & NA        & NA          & NA       & 6924  \\
-Fake      & 6879 & 514               & 1397            & 811             & 812       & 812         & 818      & 12043
-\end{tabular}
-\end{table}
+DMDF_Faces_V1 is a collection of deepfake detection datasets intended to provide you with a ready to use toolkit for deepfake detection. DMDF contains thousands of crops of  real and deepfaked videos.
 
 To download the full DMDF_Faces_V1 datasets use the command:
 
