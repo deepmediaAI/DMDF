@@ -1,0 +1,27 @@
+Attached below are links to the original datasets used in DMDF
+
+DFDC:
+
+https://ai.facebook.com/datasets/dfdc/
+
+Deeper Forensics: 
+
+https://github.com/EndlessSora/DeeperForensics-1.0
+
+Deepfacelab:
+
+https://github.com/iperov/DeepFaceLab
+
+Face_Forensics++(Contains Neural Textures, Faceshifter, Faceswap, and Face2Face generated fakes on Face_Forensics reals):
+
+https://github.com/ondyari/FaceForensics
+
+For the individual Deepfake Generators:
+
+Neural Textures: https://niessnerlab.org/papers/2019/11neuralrendering/thies2019neural_preprint.pdf
+
+FaceShifter: https://github.com/mindslab-ai/faceshifter
+
+FaceSwap: https://faceswap.dev/
+
+Face2Face: https://github.com/datitran/face2face-demo
