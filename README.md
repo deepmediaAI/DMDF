@@ -5,7 +5,7 @@ The official GitHub for the Deep Media Data Files, the largest and most diverse 
 
 DMDF_Faces_V2 is a collection of deepfake detection datasets intended to provide you with a ready to use toolkit for deepfake detection. DMDF contains thousands of crops of  real and deepfaked videos.
 
-What's new in V2? We are grateful for the hugely positive response to V1, and we hear your feedback loud and clear. Firstly, DMDF V2 is signifigantly smaller in download size, making it a much more easily accesible and downloadable tool for deepfake detection. Secondarily, despite the decreased overall size, we have added dramtically more data to DMDF V2. DMDF V2 now contains over 50,000 pre processed images, split almost exactly between original and manipulated videos. Lastly, we have begun doing demographic analysis of the large quantity of data we are providing, allowing users to more directly understand the racial, emotional, gender, and age distribution of the data they are using.
+What's new in V2? We are grateful for the hugely positive response to V1, and we hear your feedback loud and clear. Firstly, DMDF V2 is significantly smaller in download size, making it a much more easily accessible and downloadable tool for deepfake detection. Secondarily, despite the decreased overall size, we have added dramatically more data to DMDF V2. DMDF V2 now contains over 50,000 pre-processed images, split almost exactly between original and manipulated videos. Lastly, we have begun doing demographic analysis of the large quantity of data we are providing, allowing users to more directly understand the racial, emotional, gender, and age distribution of the data they are using.
 
 To download the full DMDF_Faces_V2 datasets use the command:
 
