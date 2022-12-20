@@ -1,6 +1,6 @@
 # DMDF V2 is Here! For more info, checkout our new whitepaper here
 
-TLDR
+TLDR:
 The official GitHub for the Deep Media Data Files, the largest and most diverse public resource for deepfake detection
 
 DMDF_Faces_V2 is a collection of deepfake detection datasets intended to provide you with a ready to use toolkit for deepfake detection. DMDF contains thousands of crops of  real and deepfaked videos.
