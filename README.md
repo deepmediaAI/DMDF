@@ -15,4 +15,4 @@ When you download DMDF_Faces_V2 you will receive a directory pre-structured to a
 
 The dataset size is 350 GB(Compared to 2.7 TB for V1), and you must be authenticated with your Amazon Web Service account. By setting your region to US-east-1 you can avoid download costs, otherwise it is $0.02 USD/GB, or about $7 for the whole dataset. If you are in academia, or find this cost prohibitive, and are unable to set your region to US-east-1, we would be more than happy to subsidize your download. For more information please reach out to ryan@deepmedia.ai.
 
-For more information, please see the [white paper](https://github.com/deepmediaAI/DMDF/blob/main/DeepMediaML%20DMDF_Faces_V2%20White%20Paper.pdf) contained in this repository.
+For more information, please see the [white paper](https://github.com/deepmediaAI/DMDF/blob/main/DeepMediaML%20DMDF_Faces_V2%20White%20Paper.pdf) contained in this repository. Or check out the Age, Race, Gender, and Emotional distributions of the dataset [here](https://github.com/deepmediaAI/DMDF/tree/main/Demographic_Images_DMDFV2).
