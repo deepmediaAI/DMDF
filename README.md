@@ -1,4 +1,4 @@
-# DMDF V2 is Here! For more info, checkout our new whitepaper here
+# DMDF V2 is Here! For more info, checkout our [new whitepaper here]([url](https://github.com/deepmediaAI/DMDF/blob/main/DeepMedia%20DMDF_Faces_V2%20%20White%20Paper.pdf))
 
 TLDR:
 The official GitHub for the Deep Media Data Files, the largest and most diverse public resource for deepfake detection
